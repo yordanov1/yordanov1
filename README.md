@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" alt="Yordans's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov1" />
+<img align="right" alt="Yordans's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov1" />
 
 
