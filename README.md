@@ -10,11 +10,9 @@
 
 
 
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C# WEB BASICS
 - 📫 How to reach me: yordanov8801@gmail.com
-- ⚡ Fun fact: ...
+
 -->
 
 
