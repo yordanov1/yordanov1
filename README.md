@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+
 
 <img align="left" alt="Yordans's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov1" />
 
-</details>
+
