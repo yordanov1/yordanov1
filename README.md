@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yordanov1)
-
-
-
 <img align="right" alt="Yordans's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov1" />
 
 - 🔭 I’m currently working on ...
