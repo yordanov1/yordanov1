@@ -6,7 +6,7 @@
 
 <img align="right" alt="Yordans's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov1" />
 
- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mirakis97&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yordanov1&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 
 
 
